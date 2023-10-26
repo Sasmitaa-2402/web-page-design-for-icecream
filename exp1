@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Delicious Ice Creams</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff7f50;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            color: white;
+        }
+        section {
+            text-align: center;
+            padding: 20px;
+        }
+        img {
+            width: 80%;
+            max-width: 500px;
+        }
+        p {
+            font-size: 18px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Discover the Flavor of Summer!</h1>
+    </header>
+
+    <section>
+        <h2>Welcome to our Ice Cream Paradise</h2>
+        <img src="icecream.jpg" alt="Delicious Ice Cream">
+        <p>Indulge in the creamy and refreshing taste of our artisan ice creams. Made from the finest ingredients, our ice creams will transport you to a world of delightful flavors. Come and enjoy a scoop of happiness!</p>
+    </section>
+
+    <section>
+        <h2>Our Special Flavors</h2>
+        <img src="flavor1.jpg" alt="Mango Madness">
+        <h3>Mango Madness</h3>
+        <p>A tropical delight that combines the sweetness of ripe mangoes with a hint of tanginess. It's like a summer vacation in a cone!</p>
+
+        <img src="flavor2.jpg" alt="Chocolate Dream">
+        <h3>Chocolate Dream</h3>
+        <p>For all the chocolate lovers out there! Dive into a world of rich, velvety chocolate goodness with each bite.</p>
+    </section>
+
+    <section>
+        <h2>Visit Us Today</h2>
+        <p>Find our ice cream parlor at 123 Main Street, Your City. We're open every day from 12:00 PM to 10:00 PM. Grab your friends and family and make some unforgettable summer memories with us!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Delicious Ice Creams</p>
+    </footer>
+</body>
+</html>
